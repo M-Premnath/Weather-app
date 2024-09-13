@@ -101,6 +101,10 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+.col p{
+    padding-bottom: 2px;
+    margin: 0;
+}
 .weather{
     display: none;
 }
